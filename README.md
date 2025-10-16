@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🔍 Multimodal Search System (Text + Image + Voice)
 
 A multimodal AI system that allows **text**, **image**, and **voice** search — powered by CLIP, FAISS, Whisper, and SpeechT5.  
@@ -80,3 +81,6 @@ setx HF_API_TOKEN "your_token_here"
 
 📜 License
 This project is open-source under the MIT License.
+=======
+# TriFind_
+>>>>>>> ca2ca6da3afaaca07b2fcc62185508b048d4be0e
