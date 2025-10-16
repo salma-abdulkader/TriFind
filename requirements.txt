@@ -1,0 +1,10 @@
+torch
+transformers
+datasets
+numpy
+pillow
+requests
+soundfile
+faiss-cpu
+gradio
+IPython
